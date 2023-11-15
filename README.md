@@ -24,10 +24,10 @@ The repository serves as a resource for students learning about these models and
 
 The repository is organized as follows:
 
-- **/notebooks**: Contains Jupyter notebooks with implementation examples and explanations.
-- **/data**: Includes datasets used in the implementations.
-- **/src**: Source code or scripts related to the implementations.
-- **/docs**: Supplementary documentation or additional resources.
+- **/MovieGenreClassification**: Contains Jupyter notebooks with implementation examples and explanations.
+- **/MovieGenreClassification/dataset**: Includes datasets used in the implementations.
+- **/CredidCardDetection**: Source code or scripts related to the implementations.
+- **/CredidCardDetection/dataset**: Supplementary documentation or additional resources.
 
 ## Usage
 
